@@ -1,4 +1,4 @@
-## Atletas do Brasil: Seu Guia Para os Heróis Olímpicos 🇧🇷
+## Atletas do Brasil: Seu Guia Para os Heróis Olímpicos 🇧🇷      ( Imersão DEV com Google Gemini )
 
 **Mergulhe no mundo dos atletas brasileiros que fazem história nas Olimpíadas!**
 
