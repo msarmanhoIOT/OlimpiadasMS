@@ -4,7 +4,7 @@ function pesquisar() {
     let section = document.getElementById("resultados-pesquisa");
     
  
-    let campoPesquisa = document.getElementById("campo-pesquisa").value
+    let campoPesquisa = document.getElementById("campo-pesquisa").value.trim()
 
     // Se o campo pesquisa for uma String sem Nada
     if (!campoPesquisa) {
